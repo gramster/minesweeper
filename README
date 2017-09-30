@@ -7,8 +7,8 @@ and they have been really ugly. This implementation is
 considerably more elegant and a lot shorter, mostly due
 to exploiting the recursive nature of the game.
 
-This program is really meant as an example for students
-of C programming. 
+This program was originally meant as an example for students
+of C programming/recursion.
 
 There are two version: mine.c requires no mouse is is
 plain C code, while mine_dos.c is the DOS version that 
