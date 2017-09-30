@@ -1,0 +1,15 @@
+This is a simple implementation of the MS-Windows game
+WinMine for DOS. It requires a Microsoft-compatible
+mouse. You need Borland C to compile it.
+
+I have seen a few other programs to implement this game,
+and they have been really ugly. This implementation is
+considerably more elegant and a lot shorter, mostly due
+to exploiting the recursive nature of the game.
+
+This program is really meant as an example for students
+of C programming. 
+
+There are two version: mine.c requires no mouse is is
+plain code, while mine_dos.c is the DOS version that 
+requires mouse.
