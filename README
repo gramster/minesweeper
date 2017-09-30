@@ -11,5 +11,5 @@ This program is really meant as an example for students
 of C programming. 
 
 There are two version: mine.c requires no mouse is is
-plain code, while mine_dos.c is the DOS version that 
+plain C code, while mine_dos.c is the DOS version that 
 requires mouse.
